@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RelivoF
 - 👀 I’m interested in anything related with computers.
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anything.
 - 📫 You can reach me at @man69420 on discord.
 - 😄 Pronouns: he/him
