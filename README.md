@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RelivoF
 - 👀 I’m interested in anything related with computers.
-- 🌱 I’m currently learning unity :).
+- 🌱 I’m currently working on Lost in reality modpack
 - 💞️ I’m looking to collaborate on anything.
-- 📫 You can reach me at @man69420 on discord.
+- 📫 You can reach me at @Revilo126 on discord.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am a human.
 
