@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RelivoF
-- 👀 I’m interested in anything related with computers.
+- 👀 I’m interested in anything related with computers/software.
 - 🌱 I’m currently working on Lost in reality modpack
 - 💞️ I’m looking to collaborate on anything.
 - 📫 You can reach me at @Revilo126 on discord.
