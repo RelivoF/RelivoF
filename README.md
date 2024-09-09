@@ -6,7 +6,7 @@
 
   <h3>I am currently working on</h3>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Inter-Reality-Control-Committee&repo=Lost-in-reality&theme=github_dark)]([https://github.com/RelivoF](https://github.com/Inter-Reality-Control-Committee/Lost-in-reality))
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Inter-Reality-Control-Committee&repo=Lost-in-reality&theme=github_dark)](https://github.com/Inter-Reality-Control-Committee/Lost-in-reality)
   
   <h3>⭐ Stats</h3>
   
