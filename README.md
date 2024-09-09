@@ -1,15 +1,18 @@
-- 👋 Hi, I’m @RelivoF
-- 👀 I’m interested in anything related with computers/software.
-- 🌱 I’m currently working on Lost in reality modpack
-- 💞️ I’m looking to collaborate on anything.
-- 📫 You can reach me at @Revilo126 on discord.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i am a human.
+<div id="header" align="center">
+  <img src="https://avatars.githubusercontent.com/u/166895820?s=400&u=81503377fdac75dbad4c1a1d9750325ab1b918cc&v=4" width="128"/>
 
+  <h3>Hello, I am RelivoF, a random nobody who you'll only see once 🙃</h3>
+  
 
-![rick](https://github.com/RelivoF/RelivoF/assets/166895820/a7e87428-caaf-448f-9c90-4c83806fc623)
+  <h3>I am currently working on</h3>
+  
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Inter-Reality-Control-Committee&repo=Lost-in-reality&theme=github_dark)
+  
+  <h3>⭐ Stats</h3>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RelivoF&theme=github_dark)
 
-<!---
-RelivoF/RelivoF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+  ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=RelivoF&theme=github_dark)
+</div>
+
