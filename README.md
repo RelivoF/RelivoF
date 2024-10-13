@@ -8,7 +8,7 @@
 <div id="body" align="center">
   <h3>The project I am currently working on:</h3>
   
-  [![Readme Card for LIR](https://github-readme-stats.vercel.app/api/pin/?username=Inter-Reality-Control-Committee&repo=Lost-in-reality&theme=github_dark)](https://github.com/Inter-Reality-Control-Committee/Lost-in-reality)
+  NOTHING
   
   <h3>⭐ Stats</h3>
   
